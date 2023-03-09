@@ -1,0 +1,26 @@
+[
+    {
+        "nom": "Pikachu",
+        "niveau": 1,
+        "type_pokemon": "normal",
+        "pv": 100,
+        "attaque": 10,
+        "defense": 10
+    },
+    {
+        "nom": "Salameche",
+        "niveau": 1,
+        "type_pokemon": "feu",
+        "pv": 80,
+        "attaque": 45,
+        "defense": 15
+    },
+    {
+        "nom": "Carapuce",
+        "niveau": 100,
+        "type_pokemon": 1,
+        "pv": 100,
+        "attaque": "Eau",
+        "defense": 0
+    }
+]
