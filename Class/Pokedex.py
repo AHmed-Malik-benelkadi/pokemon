@@ -66,7 +66,7 @@ class Pokedex():
 
 
     def __str__(self):
-        return f"Le Pokédex contient {len(self.__pokemon)} Pokémon."
+        return f"Nombre de Pokémon dans le Pokédex : {len(self.__pokemon)}"
 
 
 
