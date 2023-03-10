@@ -20,7 +20,8 @@
         "niveau": 100,
         "type_pokemon": 1,
         "pv": 100,
-        "attaque": "Eau",
+        "attaque": "10",
         "defense": 0
+
     }
 ]

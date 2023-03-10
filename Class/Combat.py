@@ -76,7 +76,7 @@ class Combat:
                         pokemon.set_nb_victoires(pokemon.get_nb_victoires() + 1)
                         break
 
-            self.__pokedex.sauvegarder_pokedex('pokedex.txt')
+            self.__pokedex.sauvegarder_pokedex('pokemon.json')
 
 
 pikachu = PokemonElectrique("Pikachu", 10)

@@ -1,7 +1,8 @@
 import random
+import json
+from Combat import *
 from Pokemon import *
 from Pokedex import *
-from Combat import *
 
 def ajouter_pokemon():
     nom = input("Nom du Pokemon : ")
@@ -49,7 +50,6 @@ def lancer_partie():
 def afficher_pokedex():
     pokedex = Pokedex()
     pokedex.afficher_pokedex()
-
 
 while True:
     print("Menu :")
